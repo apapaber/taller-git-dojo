@@ -1,2 +1,6 @@
 linea en conflicto
+<<<<<<< HEAD
  marcelo
+=======
+marcelo
+>>>>>>> c076ff197a3ba28bbafe539e58bc73b2c84b2a19
